@@ -28,7 +28,6 @@ $magicWords = [];
 
 /** English (English) */
 $magicWords[ 'en' ] = [
-	'far' => [ 0, 'far' ],
-	'fas' => [ 0, 'fas' ],
-	'fab' => [ 0, 'fab' ],
+	'tif' => [ 0, 'tif' ],
+	'tio' => [ 0, 'tio' ],
 ];
